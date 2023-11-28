@@ -1,3 +1,9 @@
+import { Link } from "@components";
+
 export default function App() {
-	return <div>App</div>;
+	return (
+		<>
+			<Link />
+		</>
+	);
 }
