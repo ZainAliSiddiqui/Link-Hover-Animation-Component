@@ -1,3 +1,3 @@
 export type TperspectiveTextProps = {
-    label: string;
+    children: React.ReactNode;
 };
