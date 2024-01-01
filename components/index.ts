@@ -1,1 +1,1 @@
-export { default as Link } from './Link-Hover/Link';
+export { default as LinkHover } from './Link-Hover/LinkHover';
